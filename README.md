@@ -27,7 +27,7 @@ _Note_: This project is tested with Python 3.7.9
 _Note_: Using `--renumber` option will send your antibody to the [AbNum server](http://www.bioinf.org.uk/abs/abnum/).
 
 ## To predict fv structure of antibody
-Put fasta files in pred folder inside data folder. Note the fasta file must contain >:H and >:L for indicating heaving and light chain
+Put fasta files in pred folder inside data folder. Note the fasta file must contain >:H and >:L for indicating heavy and light chain
 ```
 python predict.py –renumber
 ```
