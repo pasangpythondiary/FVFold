@@ -19,8 +19,6 @@ Two Trained weight has been given. Download from [here](https://1drv.ms/f/s!Alyu
 
 ## Common workflows
 
-Additional options for all scripts are available by running with `--help`.
-
 _Note_: This project is tested with Python 3.7.9
 
 _Note_: Using `--renumber` option will send your antibody to the [AbNum server](http://www.bioinf.org.uk/abs/abnum/).
