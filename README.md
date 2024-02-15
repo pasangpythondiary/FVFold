@@ -1,5 +1,5 @@
 # FVFold
-FvFold Model is highly inspired from DeepAb model (https://github.com/RosettaCommons/DeepAb )
+A Model to predict Antibody Fv Structure using Protein Language Model with Residual Network and Rosetta Minimization. FvFold Model is highly inspired from DeepAb model (https://github.com/RosettaCommons/DeepAb )
 ## Environment Setup
 
  Create and activate a python virtual environment
@@ -12,11 +12,10 @@ pip install -r requirements.txt
 _Note_: PyRosetta should be installed following the instructions [here](http://pyrosetta.org/downloads).
 
 ## Download FvFold pretrained weight and unzip and copy the weight in trained_models/ensemble/
-Two Trained weight has been given 
+Two Trained weight has been given. Download from [here](https://1drv.ms/f/s!Alyu1bFVgHYUgyV4EDsCsFnqQtaC?e=hkRnsO).
 1)	Trained weights for evaluating therapeutic and rosetta benchmark dataset
-Link: 
 2)	Trained weights for evaluating Igfold benchmark
-Link:
+
 
 ## Common workflows
 
